@@ -15,10 +15,10 @@
 [![whats App](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/10409044911) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/benjaminvichel)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=benjaminvichel" />
+  <img height=150 align="center" src="https://github-readme-stats-blond-seven-54.vercel.app/api?username=benjaminvichel" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminvichel&layout=compact&langs_count=8&card_width=200" />
+  <img height=150 align="center" src="https://github-readme-stats-blond-seven-54.vercel.app/api/top-langs?username=benjaminvichel&layout=compact&langs_count=8&card_width=200" />
 </a>
 
 <h2 align="center"> 🛰️ Technologies I'm familiar with 🛰️</h2>
