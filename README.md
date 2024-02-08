@@ -29,6 +29,5 @@
 
 ![snake gif](https://github.com/benjaminvichel/benjaminvichel/blob/output/github-contribution-grid-snake.gif)
 
-
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjaminvichel" alt="benjaminvichel" /></a> </p>
 
