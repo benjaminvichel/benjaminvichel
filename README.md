@@ -25,7 +25,9 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,mysql,git,github,html,css,java,js"/>
 </a>
 <div align="center">
+
   ![Snake animation](https://github.com/benjaminvichel/benjaminvichel/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 
