@@ -10,7 +10,7 @@
 
 📚 I'm currently Learning HTML, Css and JavaScript to become a fullstack developer!
 
-"**I'm deeply passionate** about immersing myself in the world of technology, **constantly seeking out new languages and frameworks to master**. There's nothing quite like the thrill of diving into a new project, applying my knowledge, and witnessing my creations come to life."
+**I'm deeply passionate** about immersing myself in the world of technology, **constantly seeking out new languages and frameworks to master**. There's nothing quite like the thrill of diving into a new project, applying my knowledge, and witnessing my creations come to life.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats-blond-seven-54.vercel.app/api?username=benjaminvichel&show_icons=true&include_all_commits=true&count_private=true" />
