@@ -8,6 +8,8 @@
 
   🎓 I'm currently in my **5th semester.**
 
+📚 Intern at Unisinos. https://www.unisinos.br/global/pt
+
 📚 I'm currently Learning HTML, Css and JavaScript to become a fullstack developer!
 
 **I'm deeply passionate** about immersing myself in the world of technology, **constantly seeking out new languages and frameworks to master**. There's nothing quite like the thrill of diving into a new project, applying my knowledge, and witnessing my creations come to life.
