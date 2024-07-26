@@ -14,6 +14,8 @@
 
 **Passionate** about immersing myself in the world of technology, **constantly seeking out new languages and frameworks to master**. There's nothing quite like the thrill of diving into a new project, applying my knowledge, and witnessing my creations come to life.
 
+📧 How to reach me: benni.vichel@hotmail.com
+
 [![GitHub Streak](https://github-readme-streak-stats-brown-two.vercel.app?user=BenjaminVichel&theme=tokyonight-duo&hide_border=true&sideNums=EB58DB&currStreakNum=EB58DB&currStreakLabel=EB58DB&ring=EB58DB&fire=EB5454)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminVichel&layout=compact&theme=dark)
