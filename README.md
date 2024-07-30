@@ -6,7 +6,7 @@
 <h3 align="center"> 💻 Computer Science student at Unisinos. </h3>  
 <div align="center">
 
-  🎓 I'm currently in my **5th semester.**
+  🎓 I'm currently in my **6th semester.**
 
 📚 Intern at Unisinos. https://www.unisinos.br/global/pt
 
