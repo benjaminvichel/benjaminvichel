@@ -8,7 +8,7 @@
 
   🎓 I'm currently in my **6th semester.**
 
-📚 Intern at Unisinos. https://www.unisinos.br/global/pt
+📚 My portfolio: https://benjaminvichel.github.io/
 
 📚 I'm currently Learning React to become a fullstack developer!
 
