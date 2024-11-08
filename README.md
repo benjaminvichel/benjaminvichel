@@ -10,7 +10,7 @@
 
 📚 My portfolio: https://benjaminvichel.github.io/
 
-📚 I'm currently learning Rust to create games using bevy!
+📚 I'm currently learning Rust to create my fisrt game using bevy!!
 
 **Passionate** about immersing myself in the world of technology, **constantly seeking out new languages and frameworks to master**. There's nothing quite like the thrill of diving into a new project, applying my knowledge, and witnessing my creations come to life.
 
