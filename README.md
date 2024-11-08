@@ -10,7 +10,7 @@
 
 📚 My portfolio: https://benjaminvichel.github.io/
 
-📚 I'm currently Learning Rust!
+📚 I'm currently learning Rust to create games using bevy!
 
 **Passionate** about immersing myself in the world of technology, **constantly seeking out new languages and frameworks to master**. There's nothing quite like the thrill of diving into a new project, applying my knowledge, and witnessing my creations come to life.
 
@@ -23,7 +23,7 @@
 <h2 align="center"> 🛰️ Technologies I'm familiar with 🛰️</h2>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,mysql,git,github,html,css,java,js,ts,react"/>
+  <img src="https://skillicons.dev/icons?i=rust,bevy,cs,java,react,mysql"/>
 </a>
   
 <div align = "center">
