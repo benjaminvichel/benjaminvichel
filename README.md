@@ -10,7 +10,7 @@
 
 📚 My portfolio: https://benjaminvichel.github.io/
 
-📚  I'm currently focused on C#, while also learning Rust in my free time to create my first game using Bevy!
+📚  I'm currently focused on C# with .NET Framework and .NET Core, while also learning Rust in my free time to create my first game using Bevy!
 
 **Passionate** about immersing myself in the world of technology, **constantly seeking out new languages and frameworks to master**. There's nothing quite like the thrill of diving into a new project, applying my knowledge, and witnessing my creations come to life.
 
