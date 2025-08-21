@@ -1,6 +1,7 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration4000&lines=Hi+There!+🖐️;I'm+Benjamin+Vichel!🤓;"/>
   
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+There!+%F0%9F%96%90%EF%B8%8F;+I'm+Benjamin+Vichel!+%F0%9F%A4%93)](https://git.io/typing-svg)
+
 </h1>
 
 <h3 align="center"> 💻 Computer Science student at Unisinos. </h3>  
