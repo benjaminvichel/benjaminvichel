@@ -7,7 +7,7 @@
 <h3 align="center"> 💻 Computer Science student at Unisinos. </h3>  
 <div align="center">
 
-  🎓 I'm currently in my **8th semester.**
+  🎓 I'm currently in my **8th and last semester.**
 
 📚 My portfolio: https://benjaminvichel.github.io/
 
