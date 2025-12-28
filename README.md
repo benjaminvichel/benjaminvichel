@@ -24,7 +24,7 @@
 <h2 align="center"> 🛰️ Technologies I'm familiar with 🛰️</h2>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,bevy,cs,java,react,mysql"/>
+  <img src="https://skillicons.dev/icons?i=cs,java,react,mysql"/>
 </a>
   
 <div align = "center">
