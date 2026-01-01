@@ -17,9 +17,7 @@
 
 📧 How to reach me: benni.vichel@hotmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats-brown-two.vercel.app?user=BenjaminVichel&theme=tokyonight-duo&hide_border=true&sideNums=EB58DB&currStreakNum=EB58DB&currStreakLabel=EB58DB&ring=EB58DB&fire=EB5454)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminVichel&layout=compact&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats-brown-two.vercel.app?user=BenjaminVichel&theme=transparent)](https://git.io/streak-stats)
 
 <h2 align="center"> 🛰️ Technologies I'm familiar with 🛰️</h2>
 <div align="center">
