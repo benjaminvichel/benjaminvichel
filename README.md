@@ -3,28 +3,23 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+There!+%F0%9F%96%90%EF%B8%8F;+I'm+Benjamin+Vichel!+%F0%9F%A4%93)](https://git.io/typing-svg)
 
 </h1>
-
-<h3 align="center"> 💻 Computer Science student at Unisinos. </h3>  
 <div align="center">
+<h2> 📚 My portfolio! https://benjaminvichel.github.io/</h2>
 
-  🎓 I'm currently in my **8th and last semester.**
+<h3> 💻 Computer Science student at Unisinos. </h3>  
 
-📚 My portfolio: https://benjaminvichel.github.io/
+🎓 I'm currently in my **8th and last semester.**
 
-📚  I'm currently focused on C# with .NET Framework and .NET Core, while also learning Rust in my free time to create my first game using Bevy!
-
-**Passionate** about immersing myself in the world of technology, **constantly seeking out new languages and frameworks to master**. There's nothing quite like the thrill of diving into a new project, applying my knowledge, and witnessing my creations come to life.
+💻 Full Stack Developer building web applications with React and C#
 
 📧 How to reach me: benni.vichel@hotmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats-brown-two.vercel.app?user=BenjaminVichel&theme=tokyonight-duo&hide_border=true&sideNums=EB58DB&currStreakNum=EB58DB&currStreakLabel=EB58DB&ring=EB58DB&fire=EB5454)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminVichel&layout=compact&theme=dark)
-
 <h2 align="center"> 🛰️ Technologies I'm familiar with 🛰️</h2>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,java,react,mysql"/>
+  <img src="https://skillicons.dev/icons?i=cs,java,react,mysql,supabase"/>
 </a>
   
 <div align = "center">
