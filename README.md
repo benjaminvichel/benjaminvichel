@@ -10,7 +10,7 @@
 
 🎓 I'm currently in my **8th and last semester.**
 
-💻 Full Stack Developer building web applications with React and C#
+💻 Front-end Developer building web applications with React and C#
 
 📧 How to reach me: benni.vichel@hotmail.com
 
