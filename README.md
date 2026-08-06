@@ -6,7 +6,7 @@
 <h2>  My portfolio! https://www.benni.com.br</h2>
 <h3> 🎓 Bachelor's degree in Computer Science — Unisinos. </h3>
 💻 Full-stack Developer building web applications with React and C#<br>
-📧 How to reach me: benni.vichel@hotmail.com
+📧 How to reach me: benni.com.br | benni.vichel@hotmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats-brown-two.vercel.app?user=BenjaminVichel&theme=tokyonight-duo&hide_border=true&sideNums=EB58DB&currStreakNum=EB58DB&currStreakLabel=EB58DB&ring=EB58DB&fire=EB5454)](https://git.io/streak-stats)
 
